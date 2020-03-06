@@ -1,0 +1,1 @@
+I don't have any idea about Greenplum Database but I do know a bit or two about PostgreSQL (had to work on it during my Intern). PostgreSQL as far as I'm concerned is popular for its fancy stored procedures other extended features.
