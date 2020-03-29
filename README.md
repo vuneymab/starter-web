@@ -1,3 +1,9 @@
+# Starter Web Project
+
+## Introduction
+
+## GIT & GITHUB Training
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
