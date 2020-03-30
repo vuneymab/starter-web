@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Vunene Maboya <twitter>
+ Vunene Maboya
+ vuneymab@live.com
+ vunene.mab DBA
 
 # THANKS
 
