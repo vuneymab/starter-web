@@ -5,7 +5,7 @@
 
  Vunene Maboya
  vuneymab@live.com
- vunene.mab DBA
+DBA
 
 # THANKS
 
@@ -16,3 +16,4 @@
     HTML5, CSS3. Angular
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+
